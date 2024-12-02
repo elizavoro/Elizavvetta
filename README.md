@@ -20,3 +20,5 @@
 питон https://docs.google.com/document/d/17pKfe_RJzgWOtfD26_cjrgf2OK4RpT6g-viwZ9c1T8E/edit?usp=drive_link
 
 контрольная по питону https://docs.google.com/document/d/1z22EyH_lP5Yc7upgGmIFcAWLqHRPta-cdJfs7iHMSHY/edit?usp=drive_link
+
+регулирование рынка иб https://docs.google.com/document/d/1WGFTjnWV7zaf9D9p7YthW_cN-Vs_M28rIALSa2XRJsc/edit?usp=sharing
