@@ -18,3 +18,5 @@
 введение в с пециальность https://docs.google.com/document/d/15k9If-nBIotbsXO6em1-iIIofPrB8IDGBiLV8-HnA94/edit?usp=drive_link
 
 питон https://docs.google.com/document/d/17pKfe_RJzgWOtfD26_cjrgf2OK4RpT6g-viwZ9c1T8E/edit?usp=drive_link
+
+контрольная по питону https://docs.google.com/document/d/1z22EyH_lP5Yc7upgGmIFcAWLqHRPta-cdJfs7iHMSHY/edit?usp=drive_link
